@@ -1,0 +1,25 @@
+.container {
+  max-width: 700px;
+  height: 8rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+  align-items: center;
+}
+
+.strong {
+  display: block;
+  font-size: 1.75rem;
+  color: var(--heading);
+  margin-bottom: 0.5rem;
+}
+
+.icon {
+  margin-right: 10px;
+  color: var(--info);
+}
+
+.info {
+  font-size: 0.8rem;
+  color: var(--info);
+  margin-right: 30px;
+}

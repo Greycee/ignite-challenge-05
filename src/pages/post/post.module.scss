@@ -1,0 +1,19 @@
+.banner {
+  width: 100%;
+  height: 25rem;
+  object-fit: cover;
+}
+
+.post {
+  max-width: 700px;
+  color: var(--heading);
+  margin: 3rem 0;
+  h1 {
+    font-size: 3rem;
+    padding-bottom: 25px;
+  }
+}
+
+.strong {
+  margin: 3rem 0;
+}
